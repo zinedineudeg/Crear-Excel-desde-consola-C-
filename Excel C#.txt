@@ -1,0 +1,3 @@
+En el codigo podran colocar el numero de celdas y columnas, lograran cambiar el nombre al archivo
+
+El Excel esta guardado en C:\Users\zined(Nombre de su PC)\source\repos\CrearExcel\CrearExcel\bin\Debug\netcoreapp3.1

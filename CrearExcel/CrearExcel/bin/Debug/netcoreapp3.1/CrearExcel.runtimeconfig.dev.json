@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zined\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zined\\.nuget\\packages"
+    ]
+  }
+}
